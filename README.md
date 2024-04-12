@@ -17,6 +17,17 @@ Welcome to GitHub Learning! This repository is designed to help you learn how to
 **Comprehensive Guides**: Detailed documentation covering all aspects of GitHub usage.
 **Community Support**: Access to a vibrant community of learners and experts.
 
+## Git Commands
+**Here are some of the most commonly used Git commands**:
+
+git init: Initializes a new Git repository.
+git add: Adds a file to the staging area.
+git commit: Commits the file to the repository.
+git status: Shows the status of changes as untracked, modified, or staged.
+git pull: Fetches and merges changes on the remote server to your working directory.
+git push: Pushes your changes to the remote repository.
+
+
 ## Contributing
 We welcome contributions from the community! If you have any suggestions for improvements or new tutorials, please feel free to submit a pull request.
 
