@@ -30,7 +30,8 @@ Welcome to GitHub Learning! This repository is designed to help you learn how to
 - **git status**: Shows the status of changes as untracked, modified, or staged.
 - **git pull**: Fetches and merges changes on the remote server to your working directory.
 - **git push**: Pushes your changes to the remote repository.
-- **git branch**: Description: Lists all branches in the repository. The current branch is indicated with an asterisk (*).
+- **git branch**: Lists all branches in the repository. The current branch is indicated with an asterisk (*).
+- **git checkout <branch_name>**: Switches to the specified branch. This command updates the files in the working directory to match the state of the branch
 
 
 ## Contributing
