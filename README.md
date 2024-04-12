@@ -32,7 +32,7 @@ Welcome to GitHub Learning! This repository is designed to help you learn how to
 - **git push**: Pushes your changes to the remote repository.
 - **git branch**: Description: Lists all branches in the repository. The current branch is indicated with an asterisk (*).
 
-- **git checkout <branch_name>**: Description: Switches to the specified branch. This command updates the files in the working directory to match the state of the branch
+- **git checkout <branch_name>**:
 
 
 
