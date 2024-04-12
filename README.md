@@ -31,6 +31,9 @@ Welcome to GitHub Learning! This repository is designed to help you learn how to
 - **git pull**: Fetches and merges changes on the remote server to your working directory.
 - **git push**: Pushes your changes to the remote repository.
 
+- **git checkout <branch_name>**: Description: Switches to the specified branch. This command updates the files in the working directory to match the state of the branch
+
+
 
 ## Contributing
 We welcome contributions from the community! If you have any suggestions for improvements or new tutorials, please feel free to submit a pull request.
